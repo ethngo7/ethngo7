@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ethan Ngo
 
-Welcome to my GitHub! I'm a Data Science major at UC Berkeley with a strong foundation in statistical analysis, data science practice, and visualization. I’m passionate about using data to solve real-world problems—especially in the domains of business analytics, AI, and social impact.
+Welcome to my GitHub! I'm a Data Science student at UC Berkeley with a strong foundation in statistical analysis, data science practice, and visualization. I’m passionate about using data to solve real-world problems—especially in the domains of business analytics, AI, and social impact.
 ---
 
 ## 🎓 Education
@@ -66,6 +66,6 @@ MySQL, SQLite, Snowflake, Conda, GitHub, Mac/Linux terminal
 Feel free to explore my repositories and reach out if you'd like to collaborate, chat about data, or connect professionally!
 
 - [LinkedIn](https://www.linkedin.com/in/ethngo7/)  
-- [Email](mailto:ethanngo@berkeley.edu)
+- [Email](mailto:ethngo@berkeley.edu)
 
 Thanks for stopping by! 👨‍💻
