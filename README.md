@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ethan Ngo
 
-Welcome to my GitHub! I'm a Data Science student, and I’m passionate about using data to solve real-world problems—especially in the domains of business analytics, AI, and social impact.
+Welcome to my GitHub! I'm a Data Science student, and I’m passionate about using data to solve real-world problems in the domains of business analytics, AI, and social impact.
 ---
 
 ## 🎓 Education
