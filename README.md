@@ -92,7 +92,8 @@ Relevant Courses:
 
 ## 🚀 What I'm Learning Now
 
-- Pytorch and best practices (this is what I'm using: [![PyTorch](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+- Pytorch and best practices (this is what I'm using: [![PyTorch](![image](https://github.com/user-attachments/assets/d601b7ad-0b34-407e-9410-7bb54590ca76)
+)](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 )
 - revisting linear algebra from time to time     
 
