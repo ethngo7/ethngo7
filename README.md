@@ -7,10 +7,15 @@ Welcome to my GitHub! I’m passionate about using data to solve real-world prob
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethangofficial/#)
 
 
-## 🎓 Education <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cal_logo.svg/120px-Cal_logo.svg.png" width="28"/>
+## 🎓 Education <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cal_logo.svg/32px-Cal_logo.svg.png" width="28"/>
+
 
 ## 🎓 Education
+
 ![UC Berkeley](https://img.shields.io/badge/UC_Berkeley-003262?style=for-the-badge&logo=&logoColor=gold)
+
+## 🎓 Education <a href="https://www.berkeley.edu" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cal_logo.svg/32px-Cal_logo.svg.png" width="28"/></a>
+
 
 
 **University of California, Berkeley**  
