@@ -92,8 +92,9 @@ Relevant Courses:
 
 ## 🚀 What I'm Learning Now
 
-- Pytorch and best practices (this is what I'm using: ![PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A)
-)
+- Pytorch and best practices (this is what I'm using: ["Learn PyTorch for deep learning in a day. Literally.
+"](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+
 - revisting linear algebra from time to time     
 
 ---
