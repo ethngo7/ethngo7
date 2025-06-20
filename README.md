@@ -3,6 +3,12 @@
 Welcome to my GitHub! I’m passionate about using data to solve real-world problems in the domains of business analytics, AI, and social impact.
 ---
 
+[![Spotify Badge]
+(https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)]
+([https://open.spotify.com/user/your-spotify-userID](https://open.spotify.com/user/f1enrtm9qzzx0l97fseiq5mb0?si=c2c8bc50eb0a4f6a&nd=1&dlsi=2dcbdbe3f3344e5c))
+
+
+
 ## 🎓 Education
 
 **University of California, Berkeley**  
