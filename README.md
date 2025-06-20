@@ -8,9 +8,10 @@ Welcome to my GitHub! I’m passionate about using data to solve real-world prob
 
 ## 🎓 Education
 
-[![UC Berkeley](https://img.shields.io/badge/UC_Berkeley-003262?style=for-the-badge&logo=&logoColor=gold)](https://www.berkeley.edu)
+[![UC Berkeley](https://img.shields.io/badge/UC_Berkeley-003262?style=for-the-badge&logo=&logoColor=gold)](https://www.usnews.com/best-colleges/rankings/computer-science/data-analytics-science?_sort=rank&_sortDirection=asc)
 
-  
+![image](https://github.com/user-attachments/assets/141cf2dc-03a2-4058-82ca-d9882aa0e664)
+
 *B.A. in Data Science*  
 Domain Emphasis: Business and Industrial Analytics  
 Relevant Courses:  
