@@ -66,14 +66,20 @@ Relevant Courses:
 
 ## 📊 Experience
 
-- **🤖 Aetherial AI (Berkeley SkyDeck Startup)**  
+- **🤖 Aetherial AI (Berkeley SkyDeck Startup)**
+
+![image](https://github.com/user-attachments/assets/ef020333-99bf-4c63-88df-a25e592d166d)
+
   *Data Analyst Intern  
   An AI-driven data modeling platform that accelerates analytics workflows for enterprise clients.  
   - Queried 5M+ row datasets in **Snowflake** to uncover user trends and behavioral patterns  
   - Created impactful **data visualizations** to support strategy recommendations  
   - Delivered actionable insights that informed customer retention and product growth strategies  
 
-- **🔥 Interlinked**  
+- **🔥 Interlinked**
+
+[![Interlinked](https://www.linkedin.com/company/interlinkedcorp/)](https://www.linkedin.com/company/interlinkedcorp/)
+
   *Data Modeling Intern | Current*  
   A mission-driven tech company building deployable wildfire spread modeling software for use by government agencies, fire departments, and emergency responders.  
   - Evaluating various wildfire simulation models for accuracy, reliability, and real-world deployment  
