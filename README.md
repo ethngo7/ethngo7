@@ -68,8 +68,6 @@ Relevant Courses:
 
 - **🤖 Aetherial AI (Berkeley SkyDeck Startup)**
 
-![image](https://github.com/user-attachments/assets/ef020333-99bf-4c63-88df-a25e592d166d)
-
   *Data Analyst Intern  
   An AI-driven data modeling platform that accelerates analytics workflows for enterprise clients.  
   - Queried 5M+ row datasets in **Snowflake** to uncover user trends and behavioral patterns  
@@ -94,7 +92,8 @@ Relevant Courses:
 
 ## 🚀 What I'm Learning Now
 
-- Pytorch and best practices (this is what I'm using: https://www.learnpytorch.io/)  
+- Pytorch and best practices (this is what I'm using: [![PyTorch](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+)
 - revisting linear algebra from time to time     
 
 ---
