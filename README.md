@@ -103,7 +103,8 @@ Relevant Courses:
 
 Feel free to explore my repositories and reach out if you'd like to collaborate, chat about data, or connect professionally!
 
-- [LinkedIn](https://www.linkedin.com/in/ethngo7/)  
-- [Email](mailto:ethngo@berkeley.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethngo7/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethngo@berkeley.edu)
 
-Thanks for stopping by! 👨‍💻
+
+Thanks for stopping by :)
