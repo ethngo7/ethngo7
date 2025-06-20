@@ -78,8 +78,6 @@ Relevant Courses:
 
 - **🔥 Interlinked**
 
-[![Interlinked](https://www.linkedin.com/company/interlinkedcorp/)](https://www.linkedin.com/company/interlinkedcorp/)
-
   *Data Modeling Intern | Current*  
   A mission-driven tech company building deployable wildfire spread modeling software for use by government agencies, fire departments, and emergency responders.  
   - Evaluating various wildfire simulation models for accuracy, reliability, and real-world deployment  
