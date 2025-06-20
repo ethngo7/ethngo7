@@ -7,7 +7,11 @@ Welcome to my GitHub! I’m passionate about using data to solve real-world prob
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethangofficial/#)
 
 
+## 🎓 Education <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cal_logo.svg/120px-Cal_logo.svg.png" width="28"/>
+
 ## 🎓 Education
+![UC Berkeley](https://img.shields.io/badge/UC_Berkeley-003262?style=for-the-badge&logo=&logoColor=gold)
+
 
 **University of California, Berkeley**  
 *B.A. in Data Science*  
@@ -38,6 +42,7 @@ Relevant Courses:
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
