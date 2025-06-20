@@ -4,8 +4,7 @@ Welcome to my GitHub! I’m passionate about using data to solve real-world prob
 ---
 
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/f1enrtm9qzzx0l97fseiq5mb0?si=c2c8bc50eb0a4f6a&nd=1&dlsi=2dcbdbe3f3344e5c)
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethangofficial/#)
 
 
 ## 🎓 Education
