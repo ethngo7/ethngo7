@@ -19,7 +19,9 @@ Relevant Courses:
 - CS 61B: Data Structures and Algorithms  
 - Stat 134: Probability  
 - Data 144: Data Mining and Analytics  
-- UGBA 142: Advanced Business Analytics  
+- UGBA 142: Advanced Business Analytics
+- Data 102: Data, Inference and Decisions
+- IND ENG 115: Industrial and Commercial Data Systemsd
 
 ---
 
