@@ -1,10 +1,17 @@
 # 👋 Hi, I'm Ethan Ngo
 
-Welcome to my GitHub1
+Welcome to my GitHub!
 ---
 
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/f1enrtm9qzzx0l97fseiq5mb0?si=c2c8bc50eb0a4f6a&nd=1&dlsi=2dcbdbe3f3344e5c)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ethangofficial/#)
+
+## 🚀 What I'm Learning Right Now
+
+- Anthropic Claude's ["Free Courses"](https://anthropic.skilljar.com/)
+- 
+
+---
 
 ## 🎓 Education
 
@@ -92,14 +99,6 @@ Relevant Courses:
 
 ---
 
-## 🚀 What I'm Learning Now
-
-- Pytorch and best practices (this is what I'm using: ["Learn PyTorch for deep learning in a day. Literally.
-"](https://www.youtube.com/watch?v=Z_ikDlimN6A)
-
-- revisting linear algebra from time to time     
-
----
 
 ## 📫 Let's Connect!
 
@@ -108,5 +107,3 @@ Feel free to explore my repositories and reach out if you'd like to collaborate,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethngo7/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethngo@berkeley.edu)
 
-
-Thanks for stopping by :)
