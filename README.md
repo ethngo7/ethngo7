@@ -9,7 +9,6 @@ Welcome to my GitHub!
 ## 🚀 What I'm Learning Right Now
 
 - Anthropic Claude's ["Free Courses"](https://anthropic.skilljar.com/)
-- 
 
 ---
 
@@ -22,13 +21,15 @@ Welcome to my GitHub!
 *B.A. in Data Science*  
 Domain Emphasis: Business and Industrial Analytics  
 Relevant Courses:  
-- Data 100: Principles & Techniques of Data Science  
-- CS 61B: Data Structures and Algorithms  
-- Stat 134: Probability  
-- Data 144: Data Mining and Analytics  
-- UGBA 142: Advanced Business Analytics
+- CS 189: Intro to Machine Learning
+- INFO 159: Intro to NLP
+- Data 100: Principles & Techniques of Data Science
 - Data 102: Data, Inference and Decisions
-- IND ENG 115: Industrial and Commercial Data Systemsd
+- CS 61B: Data Structures and Algorithms  
+- Stat 134: Probability
+- Data 144: Data Mining and Analytics
+- UGBA 142: Advanced Business Analytics
+- IND ENG 115: Industrial and Commercial Data Systems
 
 ---
 
